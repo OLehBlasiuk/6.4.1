@@ -1,0 +1,8 @@
+﻿  FileName.cpp
+C:\Users\admin\Desktop\laba6.4.1\laba6.4.1\FileName.cpp(91,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\admin\Desktop\laba6.4.1\laba6.4.1\FileName.cpp(93,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\admin\Desktop\laba6.4.1\laba6.4.1\FileName.cpp(101,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\admin\Desktop\laba6.4.1\laba6.4.1\FileName.cpp(104,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\admin\Desktop\laba6.4.1\laba6.4.1\FileName.cpp(106,32): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\admin\Desktop\laba6.4.1\laba6.4.1\FileName.cpp(107,32): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  laba6.4.1.vcxproj -> C:\Users\admin\Desktop\laba6.4.1\x64\Debug\laba6.4.1.exe
